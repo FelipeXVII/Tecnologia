@@ -1,2 +1,2 @@
 print("hi world")
-x= input(""<>)
+x= input("<>")
